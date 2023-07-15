@@ -5,9 +5,9 @@ This README file provides a guide on how to use and set up a login form using PH
 
 File Structure
 --------------
-- `index.php`: The main login form file.
-- `authenticate.php`: The file that processes the login credentials and performs authentication.
-- `config.php`: Configuration file containing database connection details.
+- `welcome.php`: The main login form file.
+- `login.php`: The file that processes the login credentials and performs authentication.
+- `dbconnect.php`: Configuration file containing database connection details.
 - `style.css`: CSS file for styling the login form.
 
 Prerequisites
