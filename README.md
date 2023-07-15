@@ -20,8 +20,8 @@ Setup Instructions
 ------------------
 1. Clone the repository or download the files to your web server's document root.
 2. Create a MySQL database and import the provided `users.sql` file to set up the `users` table.
-3. Open the `config.php` file and update the database connection details with your own credentials.
-4. Ensure that the `config.php` file is in the same directory as the other PHP files.
+3. Open the `dbconnect.php` file and update the database connection details with your own credentials.
+4. Ensure that the `dbconnect.php` file is in the same directory as the other PHP files.
 5. Customize the login form's design by modifying the `style.css` file.
 6. Access the login form by visiting the `index.php` file in your web browser.
 
